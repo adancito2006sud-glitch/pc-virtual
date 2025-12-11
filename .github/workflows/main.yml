@@ -1,4 +1,4 @@
-name: RDP
+name: Adan
 
 on:
   workflow_dispatch:
